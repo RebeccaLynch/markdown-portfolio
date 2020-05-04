@@ -10,8 +10,8 @@
   - Going home is a delight and a privilege
   
  1. I pause
-   1. I stop
-   2. I arrive
+    1. I stop
+    2. I arrive
  2. I breathe
  3. I write
  4. I see
