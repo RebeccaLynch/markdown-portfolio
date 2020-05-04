@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can do change. I _really_ can do change. (Obviously preferable if I define the change, but still...)
+I **laugh** in a world that sometimes seems to have forgotten.
+_I **LOVE** learning!_
