@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of cute pup with carrot](https://slack-files.com/T38UUQEP6-F012ZE64GLA-1d015abe3a)
