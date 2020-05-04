@@ -1,1 +1,1 @@
-![Image of cute pup with carrot](https://slack-files.com/T38UUQEP6-F012ZE64GLA-1d015abe3a)
+![Image of cute pup with carrot](https://datasciencecampus.slack.com/files/URXPSN1RQ/F012ZE64GLA/20200423_112458.jpg)
