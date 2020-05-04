@@ -1,3 +1,3 @@
-I can do change. I _really_ can do change. (Obviously preferable if I define the change, but still...)
-I **laugh** in a world that sometimes seems to have forgotten.
-_I **LOVE** learning!_
+- I can do change. I _really_ can do change. (Obviously preferable if I define the change, but still...)
+- I **laugh** in a world that sometimes seems to have forgotten.
+- _I **LOVE** learning!_
